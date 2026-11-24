@@ -158,3 +158,16 @@ Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
 -a----        24.11.2026     17:36              0 settings.json
 
+(.venv) PS C:\Users\anast\OneDrive\Desktop\PythonProject\module_git> git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+(.venv) PS C:\Users\anast\OneDrive\Desktop\PythonProject\module_git> git commit -m "Add project files and configuration"
+ruff (legacy alias)..................................(no files to check)Skipped
+ruff format..........................................(no files to check)Skipped
+black................................................(no files to check)Skipped
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
